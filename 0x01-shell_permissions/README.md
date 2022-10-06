@@ -9,3 +9,4 @@ a script that sets permission
 a script that list file details
 a script that transfers the mode of a file to another file
 a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+a script that creates a directory with permissions
